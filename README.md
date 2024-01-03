@@ -1,7 +1,7 @@
 Hi 👋 My name is Ajay jain
 ==========================
 
-Software Developer
+I am a Software Developer
 ------------------
 
 *   🌍  I'm based in Ahmedabad, India
