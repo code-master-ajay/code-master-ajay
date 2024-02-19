@@ -9,6 +9,8 @@ I am a Software Developer
 *   🧠  I'm learning cloud scaling solutions.
 *   🤝  I'm open to collaborating on Any Interesting Projects.
 
+<br></br>
+
 ### Skills 
 <p align="left">
     
@@ -40,12 +42,14 @@ Cloud and Deployment:
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 
-
+<br></br>
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
-                    
+
+<br></br>
+
 ### Socials       
 <p align="left">
 <a href="https://www.linkedin.com/in/ajay-jain-dev" target="_blank" rel="noreferrer">
