@@ -4,10 +4,10 @@ Hi 👋 My name is Ajay jain
 I am a Software Developer
 ------------------
 
-*   🌍  I'm based in Ahmedabad, India
-*   ✉️  You can contact me at [ajay1995jain@gmail.com](mailto:ajay1995jain@gmail.com)
-*   🧠  I'm learning Kubernetes
-*   🤝  I'm open to collaborating on Any Interesting Projects
+*   🌍  I'm based in Ahmedabad, India.
+*   ✉️  You can contact me at [ajay1995jain@gmail.com](mailto:ajay1995jain@gmail.com).
+*   🧠  I'm learning cloud scaling solutions.
+*   🤝  I'm open to collaborating on Any Interesting Projects.
 
 ### Skills 
 <p align="left">
