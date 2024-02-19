@@ -44,6 +44,11 @@ Cloud and Deployment:
 
 <br></br>
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-master-ajay&show_icons=true&count_private=true&theme=radical)
+
+<br></br>
+
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
